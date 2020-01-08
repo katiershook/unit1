@@ -17,7 +17,7 @@ var quotes = [
   },
   {
     quote:"Dogs are the best",
-    source:"Literaly Everyone",
+    source:"Literally Everyone",
   },
   {
     quote:"We all accept too easily that life has to be hard and forget to make sure we have the most fun we can",
